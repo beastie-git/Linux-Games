@@ -33,3 +33,6 @@ dxvk 1.8.1
 
 # Usefull Links :
 
+https://appdb.winehq.org/objectManager.php?sClass=application&iId=6807
+https://www.protondb.com/app/15100
+https://lutris.net/games/assassins-creed/
