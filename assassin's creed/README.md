@@ -1,4 +1,4 @@
-#How to use
+# How to use
 
 1) Edit assassinscreed.sh and set APPDIR and WINEPATH variables
 2) Configure a wine prefix using assassinscreed.sh -c
