@@ -17,7 +17,7 @@ assassinscreed.sh v1.0 is small script to configure wine and launch Assassin's C
 
 ## USE :
 
-  discord.sh [OPTIONS]
+  assassinscreed.sh [OPTIONS]
 
 ## OPTIONS can be :
 
