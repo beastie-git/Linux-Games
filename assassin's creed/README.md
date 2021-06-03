@@ -29,10 +29,10 @@ MSAA cannot be enabled if the resolution is set too high (this is an issue on Wi
 
 debian 11/testing \
 wine-staging 6.9 \
-dxvk 1.8.1 \
+dxvk 1.8.1
 
 # Usefull Links :
 
 https://appdb.winehq.org/objectManager.php?sClass=application&iId=6807 \
 https://www.protondb.com/app/15100 \
-https://lutris.net/games/assassins-creed/ \
+https://lutris.net/games/assassins-creed/
