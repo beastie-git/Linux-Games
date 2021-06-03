@@ -21,7 +21,7 @@ assassinscreed.sh v1.0 is small script to configure wine and launch Assassin's C
 
 ## OPTIONS can be :
 
-  -s, --start     : start Mirror's Edge Catalyst
+  -s, --start     : start Assassin's Creed: Director's Cut Edition
   -c, --configure : Configure wine environnement for Assassin's Creed: Director's Cut Edition
   -h, --help      : Print this help
 
