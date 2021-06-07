@@ -53,7 +53,7 @@ To change screen to use in fullscreenmode, use xrandr to switch primary screen
 Language is on system.reg. If you make a clean wineprefix after the installation, you will loose language parameter. Edit it with regedit, or with the following command :
 /opt/wine-staging/bin/wine reg ADD "HKLM\Software\Wow6432Node\Ubisoft\Assassin's Creed" /v Language /d French /f
 
-Just use a fresh install of wine
+Just use a fresh install of wine \
 Installation of PhysX and dxvk are optionnal, work with d3dcompiler_47 only
 
 I limit my FPS at 60 for power consumption. To do that, i add dxvk.conf file with "dxgi.syncInterval = 1" (need dxvk installed)
