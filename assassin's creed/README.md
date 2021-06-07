@@ -64,6 +64,7 @@ MSAA cannot be enabled if the resolution is set too high (this is an issue on Wi
 
 debian 11/testing \
 wine-staging 6.9 \
+wine-staging 6.10 \
 dxvk 1.8.1
 
 # Usefull Links :
