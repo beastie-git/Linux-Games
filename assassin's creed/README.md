@@ -8,7 +8,42 @@
 
 # Gamepad Mad Catz Xbox 360 Controller
 
-Have some trouble whith my gamepad. /dev/input/js0 and /dev/input/event24 invert RX and RZ axis, i recalibrate that with jstest-gtk.
+After game install, add this lines to /$GAME_INSTALL_DIR/DefaultBindings.map
+```
+[Mad Catz Xbox 360 Controller]
+VendorID=7085
+ProductID=61462
+Button1=0
+Button2=2
+Button3=3
+Button4=1
+PadUp=64
+PadRight=65
+PadDown=66
+PadLeft=67
+Select=6
+Start=7
+ShoulderLeft1=4
+ShoulderLeft2=10
+ShoulderRight1=5
+ShoulderRight2=11
+StickLeft=8
+StickRight=9
+LeftStickUp=130
+LeftStickDown=130
+LeftStickLeft=129
+LeftStickRight=129
+RightStickUp=133
+RightStickDown=133
+RightStickLeft=132
+RightStickRight=132
+```
+Or edit your in game profile binding map file :
+/$WINEPREFIX/drive_c/users/$USER/Application\ Data/Ubisoft/Assassin\'s\ Creed/Saved\ Games/1623029687.map
+
+For more details, please visit this thread : https://bugs.winehq.org/show_bug.cgi?id=50664
+
+
 
 # Misc
 
